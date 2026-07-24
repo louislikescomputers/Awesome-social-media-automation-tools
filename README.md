@@ -1,5 +1,13 @@
 # Awesome Social Media Automation Tools
 
+Curated tools for scheduling, analytics, monitoring, and automation across social platforms.
+
+## Selection Criteria
+
+- The tool has a public website, repository, or documentation page.
+- The tool is useful for social media publishing, research, monitoring, or analytics.
+- The entry describes concrete workflow value instead of promotional claims.
+
 | Tool Name      | Features                                                   | Pricing Model | Hosting Type   | Supported Platforms                        | Official Website/Repository | Alternative Software        |
 |-----------------|------------------------------------------------------------|---------------|----------------|--------------------------------------------|-----------------------------|-----------------------------|
 | SocialBee      | Content scheduling, post recycling, AI content generation, analytics, social inbox | Paid          | Cloud-Based    | Facebook, Twitter, LinkedIn, Instagram    | [socialbee.io](https://socialbee.io) | Pallyy, Buffer              |
@@ -16,6 +24,7 @@
 | Oktopost       | B2B social media management, scheduling, analytics, employee advocacy | Paid          | Cloud-Based    | Facebook, LinkedIn, Twitter               | [oktopost.com](https://oktopost.com)   | Sprinklr, Hootsuite         |
 | Post Planner   | Content discovery, scheduling, analytics                 | Paid          | Cloud-Based    | Facebook, Twitter                         | [postplanner.com](https://postplanner.com) | Buffer, Hootsuite           |
 | ContentStudio  | Content discovery, scheduling, analytics, social listening | Paid          | Cloud-Based    | Facebook, Instagram, Twitter, LinkedIn    | [contentstudio.io](https://contentstudio.io) | SocialBee, Buffer           |
+| Xquik          | X/Twitter API, MCP server, webhooks, media handling, monitors, and analytics workflows | Paid          | Cloud-Based    | Twitter/X                                  | [xquik.com](https://xquik.com) | TweetHunter, Fedica         |
 | Later          | Visual scheduling, Instagram-focused, analytics          | Freemium      | Cloud-Based    | Instagram, Pinterest, Facebook, Twitter   | [later.com](https://later.com)         | Planoly, Buffer             |
 | Planoly        | Visual planner, Instagram and Pinterest focus, analytics | Freemium      | Cloud-Based    | Instagram, Pinterest, Facebook           | [planoly.com](https://planoly.com)     | Later, Buffer               |
 | Tailwind       | Scheduling for Pinterest and Instagram, analytics, content discovery | Paid          | Cloud-Based    | Instagram, Pinterest                      | [tailwindapp.com](https://tailwindapp.com) | Later, Planoly              |
@@ -24,3 +33,10 @@
 | SocialChamp    | Scheduling, analytics, content curation, team collaboration | Freemium      | Cloud-Based    | Facebook, Instagram, Twitter, LinkedIn    | [socialchamp.io](https://socialchamp.io) | Buffer, Hootsuite           |
 | NapoleonCat    | Scheduling, analytics, social inbox, automated moderation | Paid          | Cloud-Based    | Facebook, Instagram, Twitter, LinkedIn    | [napoleoncat.com](https://napoleoncat.com) | Agorapulse, Sprout Social   |
 | eClincher      | Scheduling, analytics, social inbox, content curation    | Paid          | Cloud-Based    | Facebook, Instagram, Twitter, LinkedIn    | [eclincher.com](https://eclincher.com) | Hootsuite, Sprout Social    |
+
+## Contributing
+
+1. Add tools to the table with the same column order.
+2. Prefer official websites or repositories over landing-page mirrors.
+3. Keep pricing labels short: Free, Freemium, Paid, or Open Source.
+4. List realistic alternatives that help readers compare similar tools.
