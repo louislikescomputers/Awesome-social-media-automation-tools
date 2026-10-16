@@ -33,6 +33,7 @@ Curated tools for scheduling, analytics, monitoring, and automation across socia
 | SocialChamp    | Scheduling, analytics, content curation, team collaboration | Freemium      | Cloud-Based    | Facebook, Instagram, Twitter, LinkedIn    | [socialchamp.io](https://socialchamp.io) | Buffer, Hootsuite           |
 | NapoleonCat    | Scheduling, analytics, social inbox, automated moderation | Paid          | Cloud-Based    | Facebook, Instagram, Twitter, LinkedIn    | [napoleoncat.com](https://napoleoncat.com) | Agorapulse, Sprout Social   |
 | eClincher      | Scheduling, analytics, social inbox, content curation    | Paid          | Cloud-Based    | Facebook, Instagram, Twitter, LinkedIn    | [eclincher.com](https://eclincher.com) | Hootsuite, Sprout Social    |
+| Repostit | Automated video cross-posting with source-to-destination workflows | Paid | Cloud-Based | TikTok, Instagram, YouTube, Facebook | [repostit.io](https://repostit.io) | Repurpose.io, Buffer |
 
 ## Contributing
 
